@@ -1,4 +1,4 @@
-#DATA_ACTION
+DATA_ACTION
 
 DATA_ACTION is created to accumulate all the basic operations that are used before landing on the main path of training Data or preparing data-driven models. 
 This involves some parts of EDA, Data visualization, model selection, etc. These Basic operations Provide a clear understanding of data, for instance, while 
