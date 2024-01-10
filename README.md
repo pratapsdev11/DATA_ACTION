@@ -20,10 +20,6 @@ In the world of data science and machine learning, understanding and preparing d
   - Basic operations related to model selection.
   - Providing a foundation for choosing suitable models for different types of data.
 
-## Usage
-
-Feel free to explore the projects and operations included in this repository. Whether you are working on a specific project or simply looking to enhance your understanding of a dataset, DATA_ACTION offers a set of tools to facilitate data exploration and preparation.
-
 ## Dependencies
 
 The projects in this repository use the following libraries:
@@ -32,3 +28,7 @@ The projects in this repository use the following libraries:
 - [matplotlib](https://matplotlib.org/): `import matplotlib.pyplot as plt` ![matplotlib](https://img.shields.io/badge/matplotlib-v3.4.3-blue)
 - [seaborn](https://seaborn.pydata.org/): `import seaborn as sns` ![seaborn](https://img.shields.io/badge/seaborn-v0.11.2-blue)
 - [scikit-learn](https://scikit-learn.org/stable/): `import sklearn` ![scikit-learn](https://img.shields.io/badge/scikit--learn-v0.24.2-blue)
+
+## Usage
+
+Feel free to explore the projects and operations included in this repository. Whether you are working on a specific project or simply looking to enhance your understanding of a dataset, DATA_ACTION offers a set of tools to facilitate data exploration and preparation.
