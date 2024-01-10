@@ -1,0 +1,3 @@
+[submodule "EDA-and-BLogs"]
+	path = EDA-and-BLogs
+	url = https://github.com/pratapsdev11/EDA-and-BLogs.git
